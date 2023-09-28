@@ -1,0 +1,12 @@
+ol{
+    color: rgb(43, 76, 226);
+    background-color: rgb(245, 24, 24);
+}
+body{ 
+    color: black;
+    background-color: gainsboro;
+}
+h2{
+    position: relative;
+left: 700px;
+}
